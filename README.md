@@ -9,7 +9,7 @@ This was a 2048 that I made mostly in a day for a job application.
 ![Uygulama Ekran Görüntüsü](https://i.imgur.com/GSrw34K.png)
 
 
-![Uygulama Ekran Görüntüsü 2](https://i.imgur.com/xrVnPuC)
+![Uygulama Ekran Görüntüsü](https://i.imgur.com/xrVnPuC.png)
 
 
   
